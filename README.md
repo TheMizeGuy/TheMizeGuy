@@ -1,16 +1,13 @@
-# Benjamin Meisl
+# Meipath LLC
 
-Software engineer · founder of Meipath LLC. I design, build, ship, and operate
-web, iOS, and desktop products — directing a fleet of AI agents built on
-Claude Code.
-
-**[bmeisl.com](https://bmeisl.com)** — products, the agent infrastructure, and
-systems write-ups · [ben@meipath.com](mailto:ben@meipath.com)
+Independent one-person software studio: web, iOS, and desktop products,
+designed, shipped, and operated on agent infrastructure built on Claude Code.
+Contact: [ben@meipath.com](mailto:ben@meipath.com) · [meipath.com](https://meipath.com)
 
 ## Products
 
 - [bootybaybroker.com](https://bootybaybroker.com) — auction-house price analytics for World of Warcraft, 13,000 monthly users
-- [Limerino](https://apps.apple.com/us/app/limerino-chat-for-twitch/id6772345850) — a Twitch chat client for iPhone, live on the App Store
+- [limerino.com](https://limerino.com) — a native Twitch chat client for iPhone, live on the [App Store](https://apps.apple.com/us/app/limerino-chat-for-twitch/id6772345850)
 - [berkshirescan.com](https://berkshirescan.com) — automated police-radio capture and transcription
 
 ## The infrastructure, in public
@@ -31,4 +28,4 @@ Operations: [railway-operator](https://github.com/TheMizeGuy/railway-operator-pu
 [deep-research](https://github.com/TheMizeGuy/deep-research-public)
 
 Before this: five and a half years of real-time C++ systems and test
-engineering at General Dynamics, on Linux and VxWorks.
+engineering on Linux and VxWorks.
